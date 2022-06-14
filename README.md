@@ -1,0 +1,1 @@
+The Wisconsin breast cancer dataset contains characteristics of the cell nuclei and has a target class of two classes - Benign and Malginant. In this project we will build two classification models - Logisitic regression and random forest which will take in the input features and output the classification results."
